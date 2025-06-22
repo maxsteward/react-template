@@ -1,0 +1,23 @@
+.App {
+    padding: 2rem;
+  }
+  
+  .App-header {
+    background-color: transparent;
+    padding: 20px;
+    color: inherit;
+  }
+  
+  .App-header h1 {
+    margin: 0 0 20px 0;
+    background: linear-gradient(45deg, #646cff, #535bf2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .App-header p {
+    font-size: 1.2em;
+    margin: 20px 0;
+    opacity: 0.8;
+  }
